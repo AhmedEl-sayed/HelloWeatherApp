@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Weather App</string>
+
+    <string-array name="city">
+        <item>Cairo</item> <!-- 360630 -->
+        <item>London</item> <!--5056033-->
+        <item>Madrid</item> <!-- 6359304-->
+        <item>California</item> <!--4350049 -->
+        <item>Barcelona</item> <!--6356055 -->
+    </string-array>
+
+    <string-array name="ids">
+        <item>360630</item>
+        <item>5056033</item>
+        <item>6359304</item>
+        <item>4350049</item>
+        <item>6356055</item>
+    </string-array>
+
+    <string name="temp">Temp : </string>
+    <string name="weather">Weather : </string>
+    <string name="loading">Loading</string>
+    <string name="contact">Contact Us</string>
+    <string name="yourname">Name</string>
+    <string name="mail">E-mail</string>
+    <string name="sub">Subject</string>
+    <string name="msg">Message</string>
+    <string name="submit">Submit</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
